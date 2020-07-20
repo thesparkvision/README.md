@@ -1,9 +1,12 @@
 # Intro
 
 Hi, I am **Aman Pandya**,
-An enthusiastic programmer who likes to indulge in tech conversations, 
-and make cool projects some which can solve problems and some which help me learn more
-about this awesome world of programming.
+- 🔭 I’m currently working on my Competitive Programming Skills
+- 🌱 I’m currently learning Dynamic Programming
+- 👯 I’m looking to collaborate on Data Science and Software Development Projects
+- 💬 Ask me about Data Structures, Python, Competitive Programming, Software Development
+- 📫 How to reach me: You can contact me on my Linkedin Profile https://linkedin.com/in/thesparkvision
+- ⚡ Fun fact: I love to watch movies when I am free or relaxing
 
 ### Significant Projects
 
