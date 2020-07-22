@@ -1,6 +1,6 @@
-## Hi there, I am **Aman Pandya** 👋
+## Hi there, I am Aman 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesparkvision/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanpandya/)
 
 My name is Aman Pandya and I am 4th year undergraduate from Mahakal Institute Of Technology. I am proficient in Python Programming language. Apart from that, I have ability to work in other languages like C, C++, Java and have sound technical knowledge of software engineering, data structures and database management.
 
