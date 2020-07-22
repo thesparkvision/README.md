@@ -8,7 +8,7 @@ My name is Aman Pandya and I am 4th year undergraduate from Mahakal Institue Of 
 - 🌱 I’m currently learning Dynamic Programming
 - 👯 I’m looking to collaborate on Data Science and Software Development Projects
 - 💬 Ask me about Data Structures, Python, Competitive Programming, Software Development
-- 📫 How to reach me:
+- 📫 How to reach me: You can contact me on Linkedin
 - ⚡ Fun fact: I love to watch movies when I am free or relaxing
 
 ### Significant Projects
