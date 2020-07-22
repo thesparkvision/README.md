@@ -24,7 +24,7 @@ Currently I have made some basic projects to explore more about software develop
 
 - I am also very much interested in competitive programming 
 - I keep on learning about new data structures and algorithms
-- I usually code on Hackerrank, Hackerearth and Geeks For Geeks Platform
-- I am also a 2 start coder on Codechef
+- I usually code on ![Hackerrank](https://www.hackerrank.com/thesparkvision?hr_r=1), ![Hackerearth](https://www.hackerearth.com/@aman2239) and ![Geeks For Geeks](https://auth.geeksforgeeks.org/user/amanpandya/practice/) Platforms
+- I am also a 2 start coder on ![Codechef](https://www.codechef.com/users/thesparkvision)
 
 ![AmanPandya github stats](https://github-readme-stats.vercel.app/api?username=thesparkvision&show_icons=true&theme=tokyonight)
