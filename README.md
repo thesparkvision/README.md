@@ -2,13 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesparkvision/)
 
-My name is Aman Pandya and I am 4th year undergraduate from Mahakal Institue Of Technology. I am proficient in Python Programming language. Apart from them, I have ability to work in other languages like C, C++, Java and have sound technical knowledge of software engineering, data structures and database management.
+My name is Aman Pandya and I am 4th year undergraduate from Mahakal Institute Of Technology. I am proficient in Python Programming language. Apart from that, I have ability to work in other languages like C, C++, Java and have sound technical knowledge of software engineering, data structures and database management.
 
 - 🔭 I’m currently working on my Competitive Programming Skills
 - 🌱 I’m currently learning Dynamic Programming
 - 👯 I’m looking to collaborate on Data Science and Software Development Projects
 - 💬 Ask me about Data Structures, Python, Competitive Programming, Software Development
-- 📫 How to reach me: You can contact me on Linkedin
+- 📫 How to reach me: You can contact me on LinkedIn
 - ⚡ Fun fact: I love to watch movies when I am free or relaxing
 
 ### Significant Projects
