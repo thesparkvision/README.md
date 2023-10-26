@@ -1,5 +1,5 @@
 
-My tech stack includes Python, Django, React, HTML, CSS, JavaScript.
+My tech stack includes Python, Django, GraphQL, Postgres, React, HTML, CSS, JavaScript.
 
 - 🔭 I’m currently working on my Competitive Programming and Development Skills
 - 💬 Ask me about Data Structures, Python, Competitive Programming, Software Development
